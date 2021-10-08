@@ -6,15 +6,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Security.Claims;
-using SSD_LAB_1.Data;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Data;
+using SSD_LAB_2.Models;
 
-namespace SSD_LAB_1
+namespace SSD_LAB_2
 {
     public static class DbInitializer
     {
-        
-        public static AppSecrets appSecrets { get; set; }
+
+       // public static AppSecrets appSecrets { get; set; }
         public static async Task<int> SeedUsersAndRoles(IServiceProvider serviceProvider)
         {
             // create the database if it doesn't exist

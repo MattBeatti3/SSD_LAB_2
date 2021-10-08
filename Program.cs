@@ -6,11 +6,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using SSD_LAB_1.Data;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Data;
+using SSD_LAB_2.Models;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace SSD_LAB_1
+namespace SSD_LAB_2
 {
     public class Program
     {

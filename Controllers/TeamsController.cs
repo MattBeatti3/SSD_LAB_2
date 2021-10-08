@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using SSD_LAB_1.Data;
+using SSD_LAB_2.Data;
 using Microsoft.AspNetCore.Authorization;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Models;
 
-namespace SSD_LAB_1.Controllers
+namespace SSD_LAB_2.Controllers
 {
     [Authorize]
     public class TeamsController : Controller

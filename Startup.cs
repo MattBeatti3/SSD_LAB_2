@@ -8,14 +8,14 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using SSD_LAB_1.Data;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Data;
+using SSD_LAB_2.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SSD_LAB_1
+namespace SSD_LAB_2
 {
     public class Startup
     {

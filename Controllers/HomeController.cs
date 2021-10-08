@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SSD_LAB_1.Controllers
+namespace SSD_LAB_2.Controllers
 {
     public class HomeController : Controller
     {

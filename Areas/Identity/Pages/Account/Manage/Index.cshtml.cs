@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Models;
 
-namespace SSD_LAB_1.Areas.Identity.Pages.Account.Manage
+namespace SSD_LAB_2.Areas.Identity.Pages.Account.Manage
 {
     public partial class IndexModel : PageModel
     {

@@ -13,9 +13,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-using SSD_LAB_1.Models;
+using SSD_LAB_2.Models;
 
-namespace SSD_LAB_1.Areas.Identity.Pages.Account
+namespace SSD_LAB_2.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]
     public class RegisterModel : PageModel
